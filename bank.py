@@ -154,3 +154,5 @@ print('Clasificador Vecinos mas cercanos')
 print(f'Accuracy de Entrenamiento: {knn.score(x_train, y_train)}')
 print(f'Accuracy de Test: {knn.score(x_test, y_test)}')
 print('*'* 50)
+
+##############################################################################
